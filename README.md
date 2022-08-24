@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soujoff/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)]()
 
-[![Twitch](https://github-readme-stats.vercel.app/api?username=jofransantos&show_icons=true&theme=radical)]
+[![Twitch](https://github-readme-stats.vercel.app/api?username=jofransantos&show_icons=true&theme=radical)]()
 
 ## Tecnologia[s que eu uso no meu dia
 
