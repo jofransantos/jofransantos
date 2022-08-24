@@ -4,9 +4,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soujoff/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)]()
 
-(https://github-readme-stats.vercel.app/api?username=jofransantos&show_icons=true&theme=radical)
+[(https://github-readme-stats.vercel.app/api?username=jofransantos&show_icons=true&theme=radical)]
 
-## Tecnologias que eu uso no meu dia
+## Tecnologia[s que eu uso no meu dia
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
