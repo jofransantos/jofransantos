@@ -3,7 +3,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC6OHSo-pago5m_zNAKD6rYg)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soujoff/)
 
-[![GitHub](https://github-readme-stats.vercel.app/api?username=jofransantos&show_icons=true&theme=radical)]()
+[![GitHub][![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ## Tecnologias que eu uso no meu dia
 
